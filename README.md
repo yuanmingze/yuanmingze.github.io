@@ -1,2 +1,2 @@
 # yuanmingze.github.io
-personal website
+Mingze Yuan's personal website.
